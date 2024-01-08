@@ -3,7 +3,7 @@
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Ruth+Ikegah.;I'm+a+Backend+Developer,+technical+writer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Edgar.;I'm+a+Software+Developer,+technical+writer;"></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -48,7 +48,7 @@
         //<a href="https://www.linkedin.com/in/ruth-ikegah/"><img src="https://img.shields.io/badge/-Ruth%20Ikegah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/IkegahRuth/"><img src="https://img.shields.io/badge/-IkegahRuth-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
       -->
-        <a href="mailto:ocheriel8@gmail.com"><img src="https://img.shields.io/badge/-Ruth%20Ikegah-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
+        <a href="mailto:ocheriel8@gmail.com"><img src="https://img.shields.io/badge/-Edgar-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:ochibaedgar@gmail.com" alt="Gmail Badge"></a>
    </p>
    
  <!-- Conecct section: END -->
